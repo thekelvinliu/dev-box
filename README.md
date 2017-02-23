@@ -22,7 +22,7 @@ $ vagrant ssh
 - up-to-date ubuntu server 16.10 yakkety yak
 - jump-start
   - an offshoot of [osx-jump-start](https://github.com/thekelvinliu/osx-jump-start) with the osx stuff hacked away
-  - run `~/jump-start/scripts/linker.sh`
+  - run `~/jump-start/scripts/linker.sh` to generate a global `.gitconfig` with your username and email
 - [python3](https://github.com/python/cpython)
   - [pip3](https://github.com/pypa/pip)
   - [numpy](https://github.com/numpy/numpy)
